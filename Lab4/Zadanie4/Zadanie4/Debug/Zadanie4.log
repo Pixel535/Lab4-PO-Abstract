@@ -1,0 +1,31 @@
+﻿  Kalkulator_pamiec.cpp
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_Prosty.h(19,22): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.h(57,2): error C2143: błąd składniowy: brakuje „;” przed „/”
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.h(57,2): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.h(59,2): error C2017: niedozwolona sekwencja ucieczki
+D:\Mati\Programy\Visual Studio\VC\Tools\MSVC\14.29.30133\include\string(24,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+D:\Mati\Programy\Visual Studio\VC\Tools\MSVC\14.29.30133\include\string(24,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(71,22): error C2039: „stod”: nie jest składową elementu „std”
+D:\Mati\Programy\Visual Studio\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : zobacz deklarację „std”
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(71,26): error C3861: "stod": identyfikatora nie odnaleziono
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(119,27): error C2039: „stod”: nie jest składową elementu „std”
+D:\Mati\Programy\Visual Studio\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : zobacz deklarację „std”
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(119,31): error C3861: "stod": identyfikatora nie odnaleziono
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(133,22): error C3861: "stod": identyfikatora nie odnaleziono
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(147,22): error C3861: "stod": identyfikatora nie odnaleziono
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(161,22): error C3861: "stod": identyfikatora nie odnaleziono
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(175,22): error C3861: "stod": identyfikatora nie odnaleziono
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.cpp(189,22): error C3861: "stod": identyfikatora nie odnaleziono
+  Zadanie4.cpp
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_Prosty.h(19,22): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.h(57,2): error C2143: błąd składniowy: brakuje „;” przed „/”
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.h(57,2): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_pamiec.h(59,2): error C2017: niedozwolona sekwencja ucieczki
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_roz.h(7,23): error C2059: błąd składniowy: „public”
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_roz.h(8,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Kalkulator_roz.h(8,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Zadanie4.cpp(16,5): error C2065: "Kalkulator_roz": niezadeklarowany identyfikator
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Zadanie4.cpp(16,20): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „naukowy”
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Zadanie4.cpp(16,20): error C2065: "naukowy": niezadeklarowany identyfikator
+D:\Mati\Moje Programy\PO\Lab4\Zadanie4\Zadanie4\Zadanie4.cpp(42,13): error C2065: "naukowy": niezadeklarowany identyfikator
+  Generowanie kodu...
